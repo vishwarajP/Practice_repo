@@ -13,4 +13,7 @@
 d = ["ab" , "dc"]
 
 print(list(map(list,d)))
+print("helll")
+
+print("hii")
 
