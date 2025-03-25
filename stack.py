@@ -19,6 +19,7 @@ def pop():
 
 
 n = int(input("enter the total len"))
+""hiiiiii""
 while True:
     print("choose the options 1.push 2.pop 3.quit")
     d = int(input("enter the your choice"))
